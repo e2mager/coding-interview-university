@@ -305,22 +305,23 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 
 - [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4nd Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
   <details>
-    [ ] Chapter 4 - Approaches to programming problems
-    [ ] Chapter 5 - Linked Lists
-    [ ] Chapter 6 - Trees and Graphs
-    [ ] Chapter 7 - Arrays and Strings
-    [ ] Chapter 8 - Recursion
-    [ ] Chapter 9 - Sorting
-    [ ] Chapter 10 - Concurrency
-    [ ] Chapter 11 - Object‐Oriented Programming
-    [ ] Chapter 12 - Design Patterns
-    [ ] Chapter 13 - Databases
-    [ ] Chapter 14 - Graphics and Bit Manipulation
-    [ ] Chapter 15 - Data Science, Random Numbers, and Statistics
-    [ ] Chapter 16 - Counting, Measuring, and Ordering Puzzles
-    [ ] Chapter 17 - Graphical and Spatial Puzzles
-    [ ] Chapter 18 - Knowledge‐Based Questions
-    [ ] Chapter 19 - Nontechnical Questions
+    <summary>ToC:</summary>
+    - [ ] Chapter 4 - Approaches to programming problems
+    - [ ] Chapter 5 - Linked Lists
+    - [ ] Chapter 6 - Trees and Graphs
+    - [ ] Chapter 7 - Arrays and Strings
+    - [ ] Chapter 8 - Recursion
+    - [ ] Chapter 9 - Sorting
+    - [ ] Chapter 10 - Concurrency
+    - [ ] Chapter 11 - Object‐Oriented Programming
+    - [ ] Chapter 12 - Design Patterns
+    - [ ] Chapter 13 - Databases
+    - [ ] Chapter 14 - Graphics and Bit Manipulation
+    - [ ] Chapter 15 - Data Science, Random Numbers, and Statistics
+    - [ ] Chapter 16 - Counting, Measuring, and Ordering Puzzles
+    - [ ] Chapter 17 - Graphical and Spatial Puzzles
+    - [ ] Chapter 18 - Knowledge‐Based Questions
+    - [ ] Chapter 19 - Nontechnical Questions
   </details>
     - answers in C++ and Java
     - this is a good warm-up for Cracking the Coding Interview
