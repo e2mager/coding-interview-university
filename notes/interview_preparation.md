@@ -1,5 +1,32 @@
 ## Interview preparation
 
+### David Byttow - ABC: Always Be Coding
+
+(technical part)
+1. **ABC (Always Be Coding).** the more you code, the better you’ll get; focused practice
+2. **Master at least one multi-paradigm language.** To do this, you must write a lot of code, read a lot more, and learn the gotchas and best practices.
+3. **Know thy complexities.** implement
+   * Dijkstra’s,
+   * Floyd-Warshall,
+   * Traveling Salesman,
+   * A*,
+   * bloom filter,
+   * breadth-first iterative search,
+   * binary search,
+   * k-way merge,
+   * bubble/selection/insertion sort,
+   * in-place quick sort,
+   * bucket/radix sort,
+   * closest pair
+   * and so on
+4. **Re-invent the wheel** by implementing the most common ds in your language of choice
+5. **Solve word problems**. Topcoder, etc
+
+(general tips)
+be passionate/don’t make assumptions (ask questions if you’re not sure)/smile
+
+
+
 ### Dan Pupius - Whiteboarding
 
 some common pitfalls that can be avoided:
@@ -11,6 +38,7 @@ some common pitfalls that can be avoided:
 * **Practice** coding some stuff on the whiteboard, then take your code and see if it actually runs; learn from what didn’t work.
 * **Research** about the company beforehand (to be able to answer Qs like "why do you want to work here")
 * **Have fun** (As well as seeing whether you are capable, the interviewer is also looking to see if they would want to work with you)
+
 
 
 ### [coderust] Effective Whiteboarding

@@ -304,6 +304,24 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 ### Interview Prep
 
 - [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4nd Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
+  <details>
+    [ ] Chapter 4 - Approaches to programming problems
+    [ ] Chapter 5 - Linked Lists
+    [ ] Chapter 6 - Trees and Graphs
+    [ ] Chapter 7 - Arrays and Strings
+    [ ] Chapter 8 - Recursion
+    [ ] Chapter 9 - Sorting
+    [ ] Chapter 10 - Concurrency
+    [ ] Chapter 11 - Object‐Oriented Programming
+    [ ] Chapter 12 - Design Patterns
+    [ ] Chapter 13 - Databases
+    [ ] Chapter 14 - Graphics and Bit Manipulation
+    [ ] Chapter 15 - Data Science, Random Numbers, and Statistics
+    [ ] Chapter 16 - Counting, Measuring, and Ordering Puzzles
+    [ ] Chapter 17 - Graphical and Spatial Puzzles
+    [ ] Chapter 18 - Knowledge‐Based Questions
+    [ ] Chapter 19 - Nontechnical Questions
+  </details>
     - answers in C++ and Java
     - this is a good warm-up for Cracking the Coding Interview
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
@@ -316,6 +334,7 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 Choose one:
 
 - [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+
 - [ ] Elements of Programming Interviews (Java version)
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
@@ -331,15 +350,15 @@ Choose one:
       <details>
       <summary>......</summary>
 
-        - Chapter 2 - Numeric Representation
-        - Chapter 3 - Binary Arithmetic and Bit Operations
-        - Chapter 4 - Floating-Point Representation
-        - Chapter 5 - Character Representation
-        - Chapter 6 - Memory Organization and Access
-        - Chapter 7 - Composite Data Types and Memory Objects
-        - Chapter 9 - CPU Architecture
-        - Chapter 10 - Instruction Set Architecture
-        - Chapter 11 - Memory Architecture and Organization
+        [ ] Chapter 2 - Numeric Representation
+        [ ] Chapter 3 - Binary Arithmetic and Bit Operations
+        [ ] Chapter 4 - Floating-Point Representation
+        [ ] Chapter 5 - Character Representation
+        [ ] Chapter 6 - Memory Organization and Access
+        [ ] Chapter 7 - Composite Data Types and Memory Objects
+        [ ] Chapter 9 - CPU Architecture
+        [ ] Chapter 10 - Instruction Set Architecture
+        [ ] Chapter 11 - Memory Architecture and Organization
 
       </details>
 
