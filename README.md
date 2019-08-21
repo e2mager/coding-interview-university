@@ -144,30 +144,11 @@
 
 </details>
 
-## Pick One Language for the Interview
-
-You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
-
-- C++
-- Java
-- Python
-
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
-
-Here is an article I wrote about choosing a language for the interview: [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)
+## Pick One Language for the Interview (C++/Java/Python)
 
 You need to be very comfortable in the language and be knowledgeable.
 
-Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-
 [See language resources here](programming-language-resources.md)
-
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
 ## Book List
 
@@ -195,6 +176,21 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 - [ ] Chapter 18 - Knowledge‐Based Questions
 - [ ] Chapter 19 - Nontechnical Questions
   </details>
+      <details>
+      <summary>......</summary>
+
+        [ ] Chapter 4 - Approaches to programming problems
+        [ ] Chapter 5 - Linked Lists
+        [ ] Chapter 6 - Trees and Graphs
+        [ ] Chapter 7 - Arrays and Strings
+        [ ] Chapter 8 - Recursion
+        [ ] Chapter 9 - Sorting
+        [ ] Chapter 10 - Concurrency
+        [ ] Chapter 11 - Object‐Oriented Programming
+        [ ] Chapter 12 - Design Patterns
+
+      </details>
+
     - answers in C++ and Java
     - this is a good warm-up for Cracking the Coding Interview
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
